@@ -1,0 +1,55 @@
+modules:
+  EOS:
+    name: Embedded Operating Systems
+    lp: 6
+    groups: [OSIS]
+
+  ParProg:
+    name: Konzepte paralleler Programmierung
+    lp: 3
+    groups: [ITSE, OSIS]
+
+  MDS:
+    name: Middleware and Distributed Systems
+    lp: 6
+    groups: [ITSE, OSIS]
+
+  SD:
+    name: Software Design
+    lp: 6
+    groups: [ITSE, SAMT]
+
+  DS:
+    name: Dependable Systems
+    lp: 6
+    groups: [ITSE, OSIS]
+
+  WSD:
+    name: Web-based Software Development
+    lp: 6
+    groups: [ITSE, SAMT]
+
+  II:
+    name: Information Integration
+    lp: 3
+    groups: [BPET, OSISS]
+
+  NLP:
+    name: Natural Language Processing
+    lp: 3f
+    groups: [BPET, OSIS]
+
+  GRuS:
+    name: Grundlagen der Regelungs- und Steuerungstechnik
+    lp: 6
+    groups: [OSIS, SAMT]
+
+  ME:
+    name: Management Essentials
+    lp: 3
+    groups: [SSK-MA]
+
+  APM:
+    name: Algorithms for Pattern Mining
+    lp: 3
+    groups: [ITSE, OSIS, BPET]
