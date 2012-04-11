@@ -32,11 +32,11 @@ modules:
   II:
     name: Information Integration
     lp: 3
-    groups: [BPET, OSISS]
+    groups: [BPET, OSIS]
 
   NLP:
     name: Natural Language Processing
-    lp: 3f
+    lp: 3
     groups: [BPET, OSIS]
 
   GRuS:
